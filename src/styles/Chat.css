@@ -1,0 +1,45 @@
+.chat-bg {
+	max-width: 600px !important;
+	background: rgb(0, 0, 0);
+	border-bottom-left-radius: 60px;
+	border-top-right-radius: 60px;
+	border: 10px solid purple;
+}
+
+.form-pad {
+	padding: 10px;
+}
+
+.panel-bg {
+	background: rgb(0, 0, 0);
+}
+
+.white {
+	color: rgb(255, 255, 255);
+}
+
+.txt-wrap {
+	overflow-wrap: anywhere;
+}
+
+.grey {
+	background: hsl(0, 0%, 42%);
+}
+
+.pad-user {
+	padding-left: 25px;
+	font-size: 20px;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.size {
+	font-size: 12px;
+}
+
+.txt {
+	color: rgb(0, 0, 0);
+}
+
+.dark {
+	color: hsl(0, 0%, 21%);
+}
